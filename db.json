@@ -3,6 +3,7 @@
 		{
 			"id": "1",
 			"status": "menunggu",
+			"alasan": "",
 			"mutasi_id": "1234567",
 			"nama_pegawai": "Benetta Spaduzza",
 			"nipeg": "7192006CP",

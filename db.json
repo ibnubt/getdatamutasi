@@ -1,0 +1,74 @@
+{
+	"getdatamutasi" : [
+		{
+			"id": "1",
+			"mutasi_id": "1234567",
+			"nama_pegawai": "Benetta Spaduzza",
+			"nipeg": "7192006CP",
+			"informasiasal": {
+				"jenjangjabatan": "Fungsional V",
+				"grade": "SPE02",
+				"posisi": "Analyst Perencana Pengadaan",
+				"org": [
+					{
+						"nomor": "1", 
+						"or":"Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1"
+					}, 
+					{
+						"nomor": "2", 
+						"or":"Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat"
+					}, 
+					{
+						"nomor": "3", 
+						"or":"Budang Operasional Sistem dan Teknologi Informasi Jawa Bali dan Nusa Tenggara"
+					}, 
+					{
+						"nomor": "4", "or": "Divisi Sistem dan Teknologi Informasi"
+					}
+				],
+				"direktorat": "Direktorat Keuangan",
+				"unit": "PT PLN (Persero) Kantor Pusat"
+			},
+			"tujuanmutasi": {
+				"jenjangjabatan": "Fungsional IV",
+				"grade": "SPE02",
+				"posisi": "Analyst Perencana Pengadaan",
+				"org": [
+					{"nomor": "1", "or": "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1"}, 
+					{"nomor": "2", "or": "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat"}, 
+					{"nomor": "3", "or": "Budang Operasional Sistem dan Teknologi Informasi Jawa Bali dan Nusa Tenggara"}, 
+					{"nomor": "4", "or": "Divisi Sistem dan Teknologi Informasi"}
+				],
+				"direktorat": "Direktorat Keuangan",
+				"unit": "PT PLN (Persero) Kantor Pusat"
+			},
+			"pertimbangan": 
+			{ 
+				"man": [
+					{"nomor": "1", "data":"Sudah siap menjajaki karir yang lebih tinggi"}, 
+					{"nomor": "2", "data":"Sebagai sarana belajar untuk ke jenjang yang lebih tinggi lagi"}
+				],
+				"pres": [
+					{"nomor": "1", "data": "Pegawai Berprestasi 2019"}, 
+					{"nomor": "2", "data": "Pegawai Berprestasi 2018"}
+				],
+				"komunikatif": "0",
+				"solutif": "0",
+				"organisasi": "0",
+				"inovatif": "0"
+			},
+			"informasitambahan": {
+						"nomorasal": "225/SDM.00.03/UID JAYA/2019-R",
+						"linknomorsuratasal": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+						"nomortujuan": "0443/SDM.00.03/UIDBANTEN/2019-R", 
+						"linknomorsurattujuan": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+						"pendidikan": "SMA IPA", 
+						"pasangan": "PLN - UP3 Semarang", 
+						"tgltugaspegawai": "1 Apr 1995", 
+						"tgltugasjabatan": "1 Jan 2018", 
+						"formasiasal": "5 / 90%", 
+						"formasitujuan": "2 / 75%"
+					}
+		}
+	]
+}

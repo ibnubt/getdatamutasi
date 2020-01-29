@@ -1,93 +1,94 @@
 {
-    "data": [{
-        "id": 6,
-        "type1": "dinas",
-        "type2": "Rotasi",
-        "employee_name": "Moyna Cutsforth",
-        "employee_code": "716-92-8664",
-        "image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
-        "document_number": "ET2020010000",
-        "state": "menunggu persetujuan",
-        "editable": true,
-        "informasi_asal": {
-            "level_name": "Fungsional V",
-            "grade_name": "SPE04",
-            "position_name": "ASSISTANT ENGINEER JARINGAN DAN GARDU INDUK GI GANDUL",
-            "organizations": [
-                {
-                    "id": 6343,
-                    "code": "16200195",
-                    "name": "SEKSI JARINGAN DAN GARDU INDUK GI GANDUL",
-                    "organization_level": 6
-                },
-                {
-                    "id": 1908,
-                    "code": "16200190",
-                    "name": "UNIT LAYANAN TRANSMISI DAN GARDU INDUK GANDUL",
-                    "organization_level": 4
-                },
-                {
-                    "id": 777,
-                    "code": "10074952",
-                    "name": "UNIT PELAKSANA TRANSMISI CAWANG",
-                    "organization_level": 3
-                }
-            ],
-            "unit": "PT PLN (Persero) UNIT INDUK TRANSMISI JAWA BAGIAN BARAT"
-        },
-        "informasi_tujuan": {
-            "level_name": "Manajemen Atas Khusus",
-            "grade_name": "SPE04",
-            "position_name": "JUNIOR OFFICER PELAYANAN DAN FASILITAS TEKNOLOGI INFORMASI",
-            "organizations": [
-                {
-                    "id": 5792,
-                    "code": "16130337",
-                    "name": "SEKSI PELAYANAN PEMBELAJARAN",
-                    "organization_level": 6
-                },
-                {
-                    "id": 1739,
-                    "code": "16130336",
-                    "name": "BAGIAN PELAYANAN, ADMINISTRASI DAN KEUANGAN",
-                    "organization_level": 4
-                },
-                {
-                    "id": 939,
-                    "code": "16130327",
-                    "name": "UNIT PELAKSANA PENDIDIKAN DAN PELATIHAN JAKARTA (ACADEMY)",
-                    "organization_level": 3
-                }
-            ],
-            "unit": "PT PLN (Persero) PUSAT PENDIDIKAN DAN PELATIHAN (CORPORATE UNIVERSITY)"
-        },
-        "informasi_tambahan": {
-            "nomor_asal": "-",
-            "nomor_tujuan": "-",
-            "url_asal": "-",
-            "url_tujuan": "-",
-            "education": "--",
-            "spouse": "--",
-            "employee_start_date": "2018-08-26T00:00:00.000+0000",
-            "position_start_date": "2018-08-26T00:00:00.000+0000",
-            "formasi_asal": "14 / 70.0%",
-            "formasi_tujuan": "14 / 70.0%"
-        },
-        "pertimbangan": {
-            "reasons": [],
-            "individual_achievements": [
-                "Pencapaian 1",
-                "Pencapaian 2"
-            ],
-            "management_considerations": [
-                "Pertimbangan Manajemen 1",
-                "Pertimbangan Manajemen 2"
-            ],
-            "communication_rating": 4.0,
-            "organization_rating": 5.0,
-            "innovation_rating": 4.0,
-            "solution_rating": 5.0
-        }
-    },
- ]
+	"data" : [
+		{
+			"id": 6,
+			"type1": "dinas",
+			"type2": "Rotasi",
+			"employee_name": "Moyna Cutsforth",
+			"employee_code": "716-92-8664",
+			"image_url": "https://staging-eta.s3-ap-southeast-1.amazonaws.com/icon-user-default.png",
+			"document_number": "ET2020010000",
+			"state": "menunggu persetujuan",
+			"editable": true,
+			"informasi_asal": {
+				"level_name": "Fungsional V",
+				"grade_name": "SPE04",
+				"position_name": "ASSISTANT ENGINEER JARINGAN DAN GARDU INDUK GI GANDUL",
+				"organizations": [
+					{
+						"id": 6343,
+						"code": "16200195",
+						"name": "SEKSI JARINGAN DAN GARDU INDUK GI GANDUL",
+						"organization_level": 6
+					},
+					{
+						"id": 1908,
+						"code": "16200190",
+						"name": "UNIT LAYANAN TRANSMISI DAN GARDU INDUK GANDUL",
+						"organization_level": 4
+					},
+					{
+						"id": 777,
+						"code": "10074952",
+						"name": "UNIT PELAKSANA TRANSMISI CAWANG",
+						"organization_level": 3
+					}
+				],
+				"unit": "PT PLN (Persero) UNIT INDUK TRANSMISI JAWA BAGIAN BARAT"
+			},
+			"informasi_tujuan": {
+				"level_name": "Manajemen Atas Khusus",
+				"grade_name": "SPE04",
+				"position_name": "JUNIOR OFFICER PELAYANAN DAN FASILITAS TEKNOLOGI INFORMASI",
+				"organizations": [
+					{
+						"id": 5792,
+						"code": "16130337",
+						"name": "SEKSI PELAYANAN PEMBELAJARAN",
+						"organization_level": 6
+					},
+					{
+						"id": 1739,
+						"code": "16130336",
+						"name": "BAGIAN PELAYANAN, ADMINISTRASI DAN KEUANGAN",
+						"organization_level": 4
+					},
+					{
+						"id": 939,
+						"code": "16130327",
+						"name": "UNIT PELAKSANA PENDIDIKAN DAN PELATIHAN JAKARTA (ACADEMY)",
+						"organization_level": 3
+					}
+				],
+				"unit": "PT PLN (Persero) PUSAT PENDIDIKAN DAN PELATIHAN (CORPORATE UNIVERSITY)"
+			},
+			"informasi_tambahan": {
+				"nomor_asal": "-",
+				"nomor_tujuan": "-",
+				"url_asal": "-",
+				"url_tujuan": "-",
+				"education": "--",
+				"spouse": "--",
+				"employee_start_date": "2018-08-26T00:00:00.000+0000",
+				"position_start_date": "2018-08-26T00:00:00.000+0000",
+				"formasi_asal": "14 / 70.0%",
+				"formasi_tujuan": "14 / 70.0%"
+			},
+			"pertimbangan": {
+				"reasons": [],
+				"individual_achievements": [
+					"Pencapaian 1",
+					"Pencapaian 2"
+				],
+				"management_considerations": [
+					"Pertimbangan Manajemen 1",
+					"Pertimbangan Manajemen 2"
+				],
+				"communication_rating": 4.0,
+				"organization_rating": 5.0,
+				"innovation_rating": 4.0,
+				"solution_rating": 5.0
+			}
+		}
+	]
 }

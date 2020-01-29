@@ -1,5 +1,5 @@
 {
-    "data": {
+    "data": [{
         "id": 6,
         "type1": "dinas",
         "type2": "Rotasi",
@@ -89,5 +89,5 @@
             "solution_rating": 5.0
         }
     },
-    "message": "success"
+ ]
 }
